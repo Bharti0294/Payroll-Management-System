@@ -1,27 +1,3 @@
-# PayrollManagementSystem
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![screencapture-localhost-52627-deduction-2021-08-17-14_36_53](https://user-images.githubusercontent.com/79982684/129711672-e869e517-c38e-4e5c-b8e4-81687a3fedd0.png)
+![screencapture-localhost-52627-employees-2021-08-17-14_33_43](https://user-images.githubusercontent.com/79982684/129711680-4ba9db97-a8fd-425f-876e-07e2d42f0d0e.png)
+![screencapture-localhost-52627-income-2021-08-17-14_35_03](https://user-images.githubusercontent.com/79982684/129711682-54e160fb-5a46-4be5-89eb-29a525256fe7.png)
